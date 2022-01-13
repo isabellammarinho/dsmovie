@@ -5,7 +5,7 @@ function Form(){
 
     const movie = {
         id: 1,
-        image: "https://i.imgur.com/bOZduxH.jpg",
+        image: "https://i.imgur.com/hE8MMEO.jpeg",
         title: "Homem aranha",
         count: 2,
         score: 4.5
