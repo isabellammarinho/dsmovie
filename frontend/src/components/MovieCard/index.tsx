@@ -5,8 +5,8 @@ function MovieCard() {
 
     const movie = {
         id: 1,
-        image: "https://i.imgur.com/hE8MMEO.jpeg",
-        title: "Homem aranha",
+        image: "https://i.imgur.com/T4Ow0uk.jpg",
+        title: "The Witcher",
         count: 2,
         score: 4.5
     };
